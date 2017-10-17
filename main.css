@@ -4,11 +4,12 @@ font-family: 'Dancing Script', cursive;
 font-family: 'Handlee', cursive;
 */
 
-.contenedor{
-	background-color: #04B4AE;
+.clearfix{
 	border:2px dotted white;
 	overflow: hidden;
-	height: 40%;
+	height: 40%;	
+	overflow:auto;
+
 }
 
 ul{
@@ -26,42 +27,67 @@ li{
 
 .menu1{
 	text-align: center;
-	height:8em;
-	width:17em;
+	height:16em;
+	width:14em;
 	position: absolute;
 	left:;
+	background-color: #04B4AE;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
 }
 
 .menu2{
 	text-align: center;
-	height:8em;
-	width:17em;
+	height:16em;
+	width:14em;
 	position: absolute;
-	left:17em;
+	left:18em;
+	background-color: #04B4AE;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
 }
 
 .menu3{
 	text-align: center;
-	height:8em;
-	width:17em;
+	height:16em;
+	width:14em;
 	position: absolute;
-	left:32em;
+	left:33em;
+	background-color: #04B4AE;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
 }
 
 .menu4{
 	text-align: center;
-	height:8em;
-	width:17em;
+	height:16em;
+	width:14em;
 	position: absolute;
-	left:47em;
+	left:48em;
+	background-color: #04B4AE;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
 }
 
 .menu5{
 	text-align: center;
-	height:8em;
-	width:17em;
+	height:16em;
+	width:14em;
 	position: absolute;
-	left:62em;
+	left:63em;
+	background-color: #04B4AE;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
 }
 
 h4{
