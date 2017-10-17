@@ -1,0 +1,74 @@
+/* FUENTES
+font-family: 'Dancing Script', cursive;
+
+font-family: 'Handlee', cursive;
+*/
+
+.contenedor{
+	background-color: #04B4AE;
+	border:2px dotted white;
+	overflow: hidden;
+	height: 40%;
+}
+
+ul{
+	color:black;
+	list-style-type: none;
+
+}
+
+li{
+	float: left;
+	height:4em;
+	margin:1em 2em;
+	font-size:20px;
+}
+
+.menu1{
+	text-align: center;
+	height:8em;
+	width:17em;
+	position: absolute;
+	left:;
+}
+
+.menu2{
+	text-align: center;
+	height:8em;
+	width:17em;
+	position: absolute;
+	left:17em;
+}
+
+.menu3{
+	text-align: center;
+	height:8em;
+	width:17em;
+	position: absolute;
+	left:32em;
+}
+
+.menu4{
+	text-align: center;
+	height:8em;
+	width:17em;
+	position: absolute;
+	left:47em;
+}
+
+.menu5{
+	text-align: center;
+	height:8em;
+	width:17em;
+	position: absolute;
+	left:62em;
+}
+
+h4{
+	font-family: 'Dancing Script', cursive;
+}
+
+p{
+	font-family: 'Handlee', cursive;
+	font-size: 15px;
+}
