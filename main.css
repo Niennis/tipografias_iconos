@@ -38,6 +38,20 @@ li{
 	border: 1px solid black;
 }
 
+.menu1:hover{
+	text-align: center;
+	height:16em;
+	width:14em;
+	position: absolute;
+	left:;
+	background-color: black;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
+	color:#A9F5E1;
+}
+
 .menu2{
 	text-align: center;
 	height:16em;
@@ -49,6 +63,20 @@ li{
 	-moz-border-radius: 10px 10px 10px 10px;
 	-webkit-border-radius: 10px 10px 10px 10px;
 	border: 1px solid black;
+}
+
+.menu2:hover{
+	text-align: center;
+	height:16em;
+	width:14em;
+	position: absolute;
+	left:18em;
+	background-color: black;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
+	color:#A9F5E1;
 }
 
 .menu3{
@@ -64,6 +92,20 @@ li{
 	border: 1px solid black;
 }
 
+.menu3:hover{
+	text-align: center;
+	height:16em;
+	width:14em;
+	position: absolute;
+	left:33em;
+	background-color: black;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
+	color:#A9F5E1;
+}
+
 .menu4{
 	text-align: center;
 	height:16em;
@@ -75,6 +117,20 @@ li{
 	-moz-border-radius: 10px 10px 10px 10px;
 	-webkit-border-radius: 10px 10px 10px 10px;
 	border: 1px solid black;
+}
+
+.menu4:hover{
+	text-align: center;
+	height:16em;
+	width:14em;
+	position: absolute;
+	left:48em;
+	background-color: black;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
+	color:#A9F5E1;
 }
 
 .menu5{
@@ -90,6 +146,20 @@ li{
 	border: 1px solid black;
 }
 
+.menu5:hover{
+	text-align: center;
+	height:16em;
+	width:14em;
+	position: absolute;
+	left:63em;
+	background-color: black;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 1px solid black;
+	color:#A9F5E1;
+}
+
 h4{
 	font-family: 'Dancing Script', cursive;
 }
@@ -97,4 +167,5 @@ h4{
 p{
 	font-family: 'Handlee', cursive;
 	font-size: 15px;
+	text-align: justify;
 }
